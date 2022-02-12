@@ -83,7 +83,6 @@ const Home = () => {
             <HomepageFeatures />
           </div>
         </main>
-
         <Contributors />
         <Sponsors />
       </Layout>
